@@ -415,4 +415,9 @@ require_once BASEPATH.'core/CodeIgniter.php';
 /* End of file index.php */
 
 /* Location: ./index.php */
-// BranchA commit, BranchA commit2
+// BranchA commit BranchB-conflict commit2
+// BranchB commit
+
+
+// cherrypick exam
+//Branch B cherry-pick exam1
